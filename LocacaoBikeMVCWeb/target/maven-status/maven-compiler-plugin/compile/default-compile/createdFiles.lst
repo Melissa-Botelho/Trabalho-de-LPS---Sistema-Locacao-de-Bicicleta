@@ -1,0 +1,14 @@
+model\dao\ClienteDAO.class
+controller\ControllerBicicleta.class
+model\dao\BicicletaDAO.class
+utils\Utils.class
+model\Locacao.class
+model\Pessoa.class
+conexao\Persistencia.class
+model\Bicicleta.class
+com\mycompany\locacaobikemvcweb\JAXRSConfiguration.class
+controller\ControllerCliente.class
+model\Cliente.class
+controller\ControllerLocacao.class
+com\mycompany\locacaobikemvcweb\resources\JavaEE8Resource.class
+model\dao\LocacaoDAO.class
